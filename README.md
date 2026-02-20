@@ -41,13 +41,13 @@
     <a href="mailto:doug104397@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail"></a>
   </div>
 </td>
-<!--
+
 <td align="right">
   <img src="https://github.com/doug1043/Doug1043/blob/main/computer-illustration.png" style="width: 350px;" alt="Computador iuriCode">
 </td> 
 </tr>
 </table>
-<!--
+
 <div align="center">
         <h2>🕹️ My Contributions 🕹️</h2>
         <picture>
